@@ -1,4 +1,4 @@
-package Object_oriented_6;
+package object_oriented_6;
 
 public class Syntax {
 
